@@ -1,6 +1,9 @@
 body {
-  background-color: yellow;
+  background-color: rgb(213, 174, 88);
+  margin: 0;
+  padding: 0;
 }
 p {
-  
+  color: darkred;
+  font-weight: bold;
 }
